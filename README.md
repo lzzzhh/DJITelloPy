@@ -77,6 +77,7 @@ Comments in the examples are mostly in both english and chinese.
     - [Technical University Kaiserslautern](https://www.uni-kl.de/)
     - [Sha Tin College, Hong Kong](https://shatincollege.edu.hk/)
     - [University of São Paulo](https://www5.usp.br/)
+    - [Guangdong Polytechnic Normal University](http://www.gpnu.edu.cn)
     - [add yours...](https://github.com/damiafuentes/DJITelloPy/edit/master/README.md)
 
 ## Authors
